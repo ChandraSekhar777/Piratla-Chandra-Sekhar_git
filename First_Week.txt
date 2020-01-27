@@ -3,4 +3,9 @@ This text file is used for understanding of git.
 Steps for week-1 work:
 1)Download the git from google.
 2)Created a github account and added new repository to it.
-3)Now I have created this text file in local machine.
+3)In command prompt we clone the repository by using the command - git clone "https://github.com/ChandraSekhar777/Piratla-Chandra-Sekhar_git.git"
+4)After cloning the repository,we will have a folder with our repository name in our local machine.
+5)In that folder,I created this text file.
+6)After creating the file,add this file using command - git add -A
+7)After adding the file,commit using command - git commit -m "File added"
+8)Finally push the file into repository using command - git push
