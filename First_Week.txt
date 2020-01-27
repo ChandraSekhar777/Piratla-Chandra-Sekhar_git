@@ -1,0 +1,6 @@
+This text file is used for understanding of git.
+
+Steps for week-1 work:
+1)Download the git from google.
+2)Created a github account and added new repository to it.
+3)Now I have created this text file in local machine.
