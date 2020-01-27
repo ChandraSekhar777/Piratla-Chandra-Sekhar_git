@@ -1,0 +1,3 @@
+After adding the first file to our repository,I made a few changes to the same file in my local machine and 
+push the file into repository by using the previous commands.
+This is the second file.
